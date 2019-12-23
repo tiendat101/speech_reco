@@ -1,0 +1,11 @@
+mỗi nhóm trình bày 20p
+1. Vấn đề giải quyết
+2. Kế thừa: từ ai? cài đặt thế nào?
+Trong quá trình thực hiện -> phương án làm mh cũ hiệu quả hơn, đề xuất ý tưởng.
+3. Cách thực hiện -> lập trình (dữ liệu lựa chọn và xử lý thế nào?)
+4, Kết quả-> Đóng góp của nhóm (điểm vượt trội)
+5, Tiến độ:
++ Tài liệu:
+Báo cáo dài, 
+Báo cáo ngắn
+phần mềm, tools, dữ liệu
